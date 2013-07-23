@@ -24,7 +24,10 @@
           47.6063889
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "ALTSpace",
+        "formatted_address": "2318 E Cherry St Seattle, WA, United States"
+      }
     },
     {
       "type": "Feature",
@@ -49,7 +52,10 @@
           47.6063889
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Bullitt Center Suite 400",
+        "formatted_address": "E Madison St & 15th Ave, Seattle, WA, United States"
+      }
     },
     {
       "type": "Feature",
@@ -204,17 +210,6 @@
         "name": "thinkspace",
         "formatted_address": "8201 164th Avenue Northeast #200, Redmond, WA, United States"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3308333,
-          47.6063889
-        ]
-      },
-      "properties": {}
     },
     {
       "type": "Feature",
