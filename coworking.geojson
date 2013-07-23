@@ -1,0 +1,276 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.316955,
+          47.61387
+        ]
+      },
+      "properties": {
+        "name": "Agnes Underground",
+        "formatted_address": "1433 12th Avenue, Seattle, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3308333,
+          47.6063889
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.375389,
+          47.662247
+        ]
+      },
+      "properties": {
+        "name": "Ballard Labs",
+        "formatted_address": "1416 NW 46th St., St. 301, Seattle, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3308333,
+          47.6063889
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.301758,
+          47.620065
+        ]
+      },
+      "properties": {
+        "name": "Seattle Cross",
+        "formatted_address": "2315 East John Street, Seattle, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331388,
+          47.600606
+        ]
+      },
+      "properties": {
+        "name": "HUB Seattle",
+        "formatted_address": "220 2nd Avenue South, Seattle, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.381999,
+          47.667553
+        ]
+      },
+      "properties": {
+        "name": "Indie Ballard",
+        "formatted_address": "5228 20th Avenue Northwest, Seattle, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32751,
+          47.595529
+        ]
+      },
+      "properties": {
+        "name": "Jigsaw Renaissance",
+        "formatted_address": "815 Seattle Boulevard South, Seattle, Washington, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344349,
+          47.611633
+        ]
+      },
+      "properties": {
+        "name": "MAKERS",
+        "formatted_address": "92 Lenora Street, Seattle, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3585,
+          47.653289
+        ]
+      },
+      "properties": {
+        "name": "MAKERHAUS",
+        "formatted_address": "122 Northwest 36th Street, Seattle, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.321112,
+          47.624968
+        ]
+      },
+      "properties": {
+        "name": "Metrix Create:Space",
+        "formatted_address": "623 Broadway East, Seattle, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320655,
+          47.616274
+        ]
+      },
+      "properties": {
+        "name": "The Mill",
+        "formatted_address": "1620 Broadway, Seattle, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323539,
+          47.615882
+        ]
+      },
+      "properties": {
+        "name": "Office Nomads",
+        "formatted_address": "1617 Boylston Avenue, Seattle, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.521525,
+          47.627379
+        ]
+      },
+      "properties": {
+        "name": "OfficeXpats LLC",
+        "formatted_address": "403 Madison Avenue North #240, Bainbridge Island, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.121734,
+          47.676238
+        ]
+      },
+      "properties": {
+        "name": "thinkspace",
+        "formatted_address": "8201 164th Avenue Northeast #200, Redmond, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3308333,
+          47.6063889
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334598,
+          47.604273
+        ]
+      },
+      "properties": {
+        "name": "SURF Incubator",
+        "formatted_address": "821 2nd Avenue #800, Seattle, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325703,
+          47.639077
+        ]
+      },
+      "properties": {
+        "name": "Eastlake Mail",
+        "formatted_address": "2226 Eastlake Avenue East, Seattle, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.039154,
+          47.543969
+        ]
+      },
+      "properties": {
+        "name": "Meadow Creek Business Center",
+        "formatted_address": "22525 Southeast 64th Place, Issaquah, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.357138,
+          47.690521
+        ]
+      },
+      "properties": {
+        "name": "Works Progress",
+        "formatted_address": "115 North 85th Street #202, Seattle, WA, United States"
+      }
+    }
+  ]
+}
