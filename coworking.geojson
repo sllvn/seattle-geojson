@@ -12,7 +12,7 @@
       },
       "properties": {
         "name": "Agnes Underground",
-        "formatted_address": "1433 12th Avenue, Seattle, WA, United States"
+        "address": "1433 12th Avenue, Seattle, WA, United States"
       }
     },
     {
@@ -26,7 +26,7 @@
       },
       "properties": {
         "name": "ALTSpace",
-        "formatted_address": "2318 E Cherry St Seattle, WA, United States"
+        "address": "2318 E Cherry St Seattle, WA, United States"
       }
     },
     {
@@ -40,7 +40,7 @@
       },
       "properties": {
         "name": "Ballard Labs",
-        "formatted_address": "1416 NW 46th St., St. 301, Seattle, WA, United States"
+        "address": "1416 NW 46th St., St. 301, Seattle, WA, United States"
       }
     },
     {
@@ -54,7 +54,7 @@
       },
       "properties": {
         "name": "Bullitt Center Suite 400",
-        "formatted_address": "E Madison St & 15th Ave, Seattle, WA, United States"
+        "address": "E Madison St & 15th Ave, Seattle, WA, United States"
       }
     },
     {
@@ -68,7 +68,7 @@
       },
       "properties": {
         "name": "Collective Self",
-        "formatted_address": "The Central District, 954 21st Ave, Seattle, WA, United States"
+        "address": "The Central District, 954 21st Ave, Seattle, WA, United States"
       }
     },
     {
@@ -82,7 +82,7 @@
       },
       "properties": {
         "name": "HUB Seattle",
-        "formatted_address": "220 2nd Avenue South, Seattle, WA, United States"
+        "address": "220 2nd Avenue South, Seattle, WA, United States"
       }
     },
     {
@@ -96,7 +96,7 @@
       },
       "properties": {
         "name": "Indie Ballard",
-        "formatted_address": "5228 20th Avenue Northwest, Seattle, WA, United States"
+        "address": "5228 20th Avenue Northwest, Seattle, WA, United States"
       }
     },
     {
@@ -110,7 +110,7 @@
       },
       "properties": {
         "name": "Jigsaw Renaissance",
-        "formatted_address": "815 Seattle Boulevard South, Seattle, Washington, United States"
+        "address": "815 Seattle Boulevard South, Seattle, Washington, United States"
       }
     },
     {
@@ -124,7 +124,7 @@
       },
       "properties": {
         "name": "MAKERS",
-        "formatted_address": "92 Lenora Street, Seattle, WA, United States"
+        "address": "92 Lenora Street, Seattle, WA, United States"
       }
     },
     {
@@ -138,7 +138,7 @@
       },
       "properties": {
         "name": "MAKERHAUS",
-        "formatted_address": "122 Northwest 36th Street, Seattle, WA, United States"
+        "address": "122 Northwest 36th Street, Seattle, WA, United States"
       }
     },
     {
@@ -152,7 +152,7 @@
       },
       "properties": {
         "name": "Metrix Create:Space",
-        "formatted_address": "623 Broadway East, Seattle, WA, United States"
+        "address": "623 Broadway East, Seattle, WA, United States"
       }
     },
     {
@@ -166,7 +166,7 @@
       },
       "properties": {
         "name": "The Mill",
-        "formatted_address": "1620 Broadway, Seattle, WA, United States"
+        "address": "1620 Broadway, Seattle, WA, United States"
       }
     },
     {
@@ -180,7 +180,7 @@
       },
       "properties": {
         "name": "Office Nomads",
-        "formatted_address": "1617 Boylston Avenue, Seattle, WA, United States"
+        "address": "1617 Boylston Avenue, Seattle, WA, United States"
       }
     },
     {
@@ -194,7 +194,7 @@
       },
       "properties": {
         "name": "OfficeXpats",
-        "formatted_address": "403 Madison Avenue North #240, Bainbridge Island, WA, United States"
+        "address": "403 Madison Avenue North #240, Bainbridge Island, WA, United States"
       }
     },
     {
@@ -208,7 +208,7 @@
       },
       "properties": {
         "name": "thinkspace",
-        "formatted_address": "8201 164th Avenue Northeast #200, Redmond, WA, United States"
+        "address": "8201 164th Avenue Northeast #200, Redmond, WA, United States"
       }
     },
     {
@@ -222,7 +222,7 @@
       },
       "properties": {
         "name": "SURF Incubator",
-        "formatted_address": "821 2nd Avenue #800, Seattle, WA, United States"
+        "address": "821 2nd Avenue #800, Seattle, WA, United States"
       }
     },
     {
@@ -236,7 +236,7 @@
       },
       "properties": {
         "name": "Vybe (at Eastlake Mall)",
-        "formatted_address": "2226 Eastlake Avenue East, Seattle, WA, United States"
+        "address": "2226 Eastlake Avenue East, Seattle, WA, United States"
       }
     },
     {
@@ -250,7 +250,7 @@
       },
       "properties": {
         "name": "The White Board",
-        "formatted_address": "317 NW Gilman Blvd #29, Issaquah, WA, United States"
+        "address": "317 NW Gilman Blvd #29, Issaquah, WA, United States"
       }
     },
     {
@@ -264,7 +264,7 @@
       },
       "properties": {
         "name": "Works Progress",
-        "formatted_address": "115 North 85th Street #202, Seattle, WA, United States"
+        "address": "115 North 85th Street #202, Seattle, WA, United States"
       }
     }
   ]
