@@ -12,6 +12,7 @@
       },
       "properties": {
         "name": "Agnes Underground",
+        "url": "http://www.agnesunderground.com/",
         "address": "1433 12th Avenue, Seattle, WA, United States"
       }
     },
@@ -26,6 +27,7 @@
       },
       "properties": {
         "name": "ALTSpace",
+        "url": "http://www.airlighttimespace.org/",
         "address": "2318 E Cherry St Seattle, WA, United States"
       }
     },
@@ -40,6 +42,7 @@
       },
       "properties": {
         "name": "Ballard Labs",
+        "url": "http://ballardlabs.com/",
         "address": "1416 NW 46th St., St. 301, Seattle, WA, United States"
       }
     },
@@ -54,6 +57,7 @@
       },
       "properties": {
         "name": "Bullitt Center Suite 400",
+        "url": "http://www.point32.com/",
         "address": "E Madison St & 15th Ave, Seattle, WA, United States"
       }
     },
@@ -68,6 +72,7 @@
       },
       "properties": {
         "name": "Collective Self",
+        "url": "http://www.facebook.com/collectiveself",
         "address": "The Central District, 954 21st Ave, Seattle, WA, United States"
       }
     },
@@ -82,6 +87,7 @@
       },
       "properties": {
         "name": "HUB Seattle",
+        "url": "http://thehubseattle.com/",
         "address": "220 2nd Avenue South, Seattle, WA, United States"
       }
     },
@@ -96,6 +102,7 @@
       },
       "properties": {
         "name": "Indie Ballard",
+        "url": "http://www.indieballard.com/",
         "address": "5228 20th Avenue Northwest, Seattle, WA, United States"
       }
     },
@@ -110,6 +117,7 @@
       },
       "properties": {
         "name": "Jigsaw Renaissance",
+        "url": "http://jigsawrenaissance.org/",
         "address": "815 Seattle Boulevard South, Seattle, Washington, United States"
       }
     },
@@ -124,6 +132,7 @@
       },
       "properties": {
         "name": "MAKERS",
+        "url": "http://www.themakersspace.com/",
         "address": "92 Lenora Street, Seattle, WA, United States"
       }
     },
@@ -138,6 +147,7 @@
       },
       "properties": {
         "name": "MAKERHAUS",
+        "url": "http://www.makerhaus.com/",
         "address": "122 Northwest 36th Street, Seattle, WA, United States"
       }
     },
@@ -152,6 +162,7 @@
       },
       "properties": {
         "name": "Metrix Create:Space",
+        "url": "http://metrixcreatespace.com/",
         "address": "623 Broadway East, Seattle, WA, United States"
       }
     },
@@ -166,6 +177,7 @@
       },
       "properties": {
         "name": "The Mill",
+        "url": "http://www.workatthemill.com/",
         "address": "1620 Broadway, Seattle, WA, United States"
       }
     },
@@ -180,6 +192,7 @@
       },
       "properties": {
         "name": "Office Nomads",
+        "url": "http://www.officenomads.com/",
         "address": "1617 Boylston Avenue, Seattle, WA, United States"
       }
     },
@@ -194,6 +207,7 @@
       },
       "properties": {
         "name": "OfficeXpats",
+        "url": "http://www.officexpats.com/",
         "address": "403 Madison Avenue North #240, Bainbridge Island, WA, United States"
       }
     },
@@ -208,6 +222,7 @@
       },
       "properties": {
         "name": "thinkspace",
+        "url": "http://www.thinkspace.com/",
         "address": "8201 164th Avenue Northeast #200, Redmond, WA, United States"
       }
     },
@@ -222,6 +237,7 @@
       },
       "properties": {
         "name": "SURF Incubator",
+        "url": "http://www.surfincubator.com/",
         "address": "821 2nd Avenue #800, Seattle, WA, United States"
       }
     },
@@ -236,6 +252,7 @@
       },
       "properties": {
         "name": "Vybe (at Eastlake Mall)",
+        "url": "http://www.vybehub.com/coworking",
         "address": "2226 Eastlake Avenue East, Seattle, WA, United States"
       }
     },
@@ -250,6 +267,7 @@
       },
       "properties": {
         "name": "The White Board",
+        "url": "http://thewhiteboard.biz/",
         "address": "317 NW Gilman Blvd #29, Issaquah, WA, United States"
       }
     },
@@ -264,6 +282,7 @@
       },
       "properties": {
         "name": "Works Progress",
+        "url": "http://www.worksprogressseattle.com/",
         "address": "115 North 85th Street #202, Seattle, WA, United States"
       }
     }
