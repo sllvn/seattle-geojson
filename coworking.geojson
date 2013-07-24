@@ -285,6 +285,21 @@
         "url": "http://www.worksprogressseattle.com/",
         "address": "115 North 85th Street #202, Seattle, WA, United States"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3869249,
+          47.5554088
+        ]
+      },
+      "properties": {
+        "name": "WSOfficeJunction",
+        "url": "http://www.wsofficejunction.com/",
+        "address": "West Seattle Office Junction, 5230 B California SW, Seattle, WA, United States"
+      }
     }
   ]
 }
