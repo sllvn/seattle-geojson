@@ -720,6 +720,21 @@
         "formatted_address": "1737 Northeast 106th Street, Seattle, WA 98125, USA",
         "courts": "basketball court (half)"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cal Anderson Park",
+        "formatted_address": "1635 11th Ave W, Seattle, WA",
+        "courts": "Basketball Full Court #1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31988370418549,
+          47.61622043585085
+        ]
+      }
     }
   ]
 }
