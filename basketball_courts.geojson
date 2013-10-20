@@ -1,0 +1,678 @@
+
+{
+    "type": "FeatureCollection",
+    "features": [
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.4072433,
+                        47.5779877
+                    ]
+                },
+                "properties": {
+                    "name": "5817 SW Lander St",
+                    "formatted_address": "5817 Southwest Lander Street, Seattle, WA 98116, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.349894,
+                        47.65529979999999
+                    ]
+                },
+                "properties": {
+                    "name": "4020 Fremont Ave N",
+                    "formatted_address": "4020 Fremont Ave N, Seattle, WA 98103, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3875973,
+                        47.6444971
+                    ]
+                },
+                "properties": {
+                    "name": "2614 24th Ave W",
+                    "formatted_address": "2614 24th Ave W, Seattle, WA 98199, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3159778,
+                        47.5859821
+                    ]
+                },
+                "properties": {
+                    "name": "1902 13th Ave S",
+                    "formatted_address": "1902 13th Ave S, Seattle, WA 98144, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.2848271,
+                        47.5194365
+                    ]
+                },
+                "properties": {
+                    "name": "9320 38th Ave S",
+                    "formatted_address": "9320 38th Ave S, Seattle, WA 98118, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.2829706,
+                        47.5487546
+                    ]
+                },
+                "properties": {
+                    "name": "6000 39th Ave S",
+                    "formatted_address": "6000 39th Ave S, Seattle, WA 98118, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.283984,
+                        47.6757735
+                    ]
+                },
+                "properties": {
+                    "name": "4103 NE 65th St",
+                    "formatted_address": "4103 Northeast 65th Street, Seattle, WA 98115, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.2800995,
+                        47.6676315
+                    ]
+                },
+                "properties": {
+                    "name": "5201 Sand Point Way NE",
+                    "formatted_address": "5201 Sand Point Way Northeast, Seattle, WA 98105, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3317336,
+                        47.62178129999999
+                    ]
+                },
+                "properties": {
+                    "name": "333 Pontius Ave N",
+                    "formatted_address": "333 Pontius Ave N, Seattle, WA 98109, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3187738,
+                        47.6594585
+                    ]
+                },
+                "properties": {
+                    "name": "9th Avenue Northeast",
+                    "formatted_address": "9th Avenue Northeast & NE 43rd St, Seattle, WA 98105, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.30257,
+                        47.5877766
+                    ]
+                },
+                "properties": {
+                    "name": "1740 23rd Ave S",
+                    "formatted_address": "1740 23rd Ave S, Seattle, WA 98144, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3121938,
+                        47.672283
+                    ]
+                },
+                "properties": {
+                    "name": "5849 15th Ave NE",
+                    "formatted_address": "5849 15th Ave NE, Seattle, WA 98115, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3007454,
+                        47.685691
+                    ]
+                },
+                "properties": {
+                    "name": "7700 25th Ave NE",
+                    "formatted_address": "7700 25th Ave NE, Seattle, WA 98115, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3633336,
+                        47.5630649
+                    ]
+                },
+                "properties": {
+                    "name": "4458 Delridge Way SW",
+                    "formatted_address": "4458 Delridge Way SW, Seattle, WA 98106, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3397763,
+                        47.6185437
+                    ]
+                },
+                "properties": {
+                    "name": "Denny Way",
+                    "formatted_address": "Denny Way & 9th Ave N, Seattle, WA 98109, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.412125,
+                        47.657457
+                    ]
+                },
+                "properties": {
+                    "name": "3801 Discovery Park Blvd",
+                    "formatted_address": "3801 Discovery Park Blvd, Seattle, WA 98199, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3685537,
+                        47.5337012
+                    ]
+                },
+                "properties": {
+                    "name": "2805 SW Holden St",
+                    "formatted_address": "2805 Southwest Holden Street, Seattle, WA 98126, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3540074,
+                        47.6361537
+                    ]
+                },
+                "properties": {
+                    "name": "1912 Warren Ave N",
+                    "formatted_address": "1912 Warren Ave N, Seattle, WA 98109, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.2962296,
+                        47.599218
+                    ]
+                },
+                "properties": {
+                    "name": "S Jackson St",
+                    "formatted_address": "S Jackson St & 28th Ave S, Seattle, WA 98144, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3230594,
+                        47.5515115
+                    ]
+                },
+                "properties": {
+                    "name": "750 S Homer St",
+                    "formatted_address": "750 S Homer St, Seattle, WA 98108, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3688575,
+                        47.6678789
+                    ]
+                },
+                "properties": {
+                    "name": "923 NW 54th St",
+                    "formatted_address": "923 NW 54th St, Seattle, WA 98107, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.4039299,
+                        47.69177190000001
+                    ]
+                },
+                "properties": {
+                    "name": "8498 Seaview Pl NW",
+                    "formatted_address": "8498 Seaview Pl NW, Seattle, WA 98117, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3281102,
+                        47.6798964
+                    ]
+                },
+                "properties": {
+                    "name": "7201 East Green Lake Dr N",
+                    "formatted_address": "7201 East Green Lake Dr N, Seattle, WA 98115, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3865981,
+                        47.57928219999999
+                    ]
+                },
+                "properties": {
+                    "name": "2700 California Ave SW",
+                    "formatted_address": "2700 California Ave SW, Seattle, WA 98116, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.2593746,
+                        47.5133723
+                    ]
+                },
+                "properties": {
+                    "name": "59th Ave S",
+                    "formatted_address": "59th Ave S & S Norfolk St, Seattle, WA 98118, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3074806,
+                        47.5696419
+                    ]
+                },
+                "properties": {
+                    "name": "3801 Beacon Ave S",
+                    "formatted_address": "3801 Beacon Ave S, Seattle, WA 98108, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.2862393,
+                        47.5399322
+                    ]
+                },
+                "properties": {
+                    "name": "6961 37th Ave S",
+                    "formatted_address": "6961 37th Ave S, Seattle, WA 98118, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3036227,
+                        47.5930353
+                    ]
+                },
+                "properties": {
+                    "name": "2150 S Norman St",
+                    "formatted_address": "2150 S Norman St, Seattle, WA 98144, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3599122,
+                        47.6294868
+                    ]
+                },
+                "properties": {
+                    "name": "211 W Highland Dr",
+                    "formatted_address": "211 W Highland Dr, Seattle, WA 98119, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.246843,
+                        47.510317
+                    ]
+                },
+                "properties": {
+                    "name": "10145 Rainier Ave S",
+                    "formatted_address": "10145 Rainier Ave S, Seattle, WA 98178, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3828242,
+                        47.68465639999999
+                    ]
+                },
+                "properties": {
+                    "name": "2101 NW 77th St",
+                    "formatted_address": "2101 Northwest 77th Street, Seattle, WA 98117, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.2909501,
+                        47.6116301
+                    ]
+                },
+                "properties": {
+                    "name": "3211 E Spring St",
+                    "formatted_address": "3211 E Spring St, Seattle, WA 98122, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3174646,
+                        47.5599737
+                    ]
+                },
+                "properties": {
+                    "name": "4801 Corson Ave S",
+                    "formatted_address": "4801 Corson Ave S, Seattle, WA 98108, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3311571,
+                        47.6641431
+                    ]
+                },
+                "properties": {
+                    "name": "4649 Sunnyside Ave N",
+                    "formatted_address": "4649 Sunnyside Ave N, Seattle, WA 98103, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3072207,
+                        47.6216739
+                    ]
+                },
+                "properties": {
+                    "name": "330 19th Ave E",
+                    "formatted_address": "330 19th Ave E, Seattle, WA 98112, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.2780422,
+                        47.5370443
+                    ]
+                },
+                "properties": {
+                    "name": "4351 S Othello St",
+                    "formatted_address": "4351 S Othello St, Seattle, WA 98118, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3139632,
+                        47.7160767
+                    ]
+                },
+                "properties": {
+                    "name": "12029 14th Ave NE",
+                    "formatted_address": "12029 14th Ave NE, Seattle, WA 98125, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.2967299,
+                        47.6051389
+                    ]
+                },
+                "properties": {
+                    "name": "352 Martin Luther King Jr Way",
+                    "formatted_address": "352 Martin Luther King Jr Way, Seattle, WA 98122, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3075905,
+                        47.6000054
+                    ]
+                },
+                "properties": {
+                    "name": "1800 S Main St",
+                    "formatted_address": "1800 S Main St, Seattle, WA 98144, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.301137,
+                        47.62267050000001
+                    ]
+                },
+                "properties": {
+                    "name": "401 24th Ave E",
+                    "formatted_address": "401 24th Ave E, Seattle, WA 98112, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.2869688,
+                        47.5607388
+                    ]
+                },
+                "properties": {
+                    "name": "3700 S Alaska St",
+                    "formatted_address": "3700 S Alaska St, Seattle, WA 98118, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3038313,
+                        47.6760055
+                    ]
+                },
+                "properties": {
+                    "name": "6535 Ravenna Ave NE",
+                    "formatted_address": "6535 Ravenna Avenue Northeast, Seattle, WA 98115, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3504198,
+                        47.5379553
+                    ]
+                },
+                "properties": {
+                    "name": "7226 12th Ave SW",
+                    "formatted_address": "7226 12th Avenue Southwest, Seattle, WA 98106, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.320064,
+                        47.643204
+                    ]
+                },
+                "properties": {
+                    "name": "950 E Roanoke St",
+                    "formatted_address": "950 E Roanoke St, Seattle, WA 98102, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3618765,
+                        47.6592772
+                    ]
+                },
+                "properties": {
+                    "name": "4320 4th Ave NW",
+                    "formatted_address": "4320 4th Avenue Northwest, Seattle, WA 98107, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3584934,
+                        47.69595289999999
+                    ]
+                },
+                "properties": {
+                    "name": "9053 1st Ave NW",
+                    "formatted_address": "9053 1st Ave NW, Seattle, WA 98117, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.2938412,
+                        47.5374797
+                    ]
+                },
+                "properties": {
+                    "name": "7200 Beacon Ave S",
+                    "formatted_address": "7200 Beacon Ave S, Seattle, WA 98108, USA"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -122.3086856,
+                        47.705851
+                    ]
+                },
+                "properties": {
+                    "name": "1737 NE 106th St",
+                    "formatted_address": "1737 Northeast 106th Street, Seattle, WA 98125, USA"
+                }
+            }
+    ]
+}
