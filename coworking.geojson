@@ -81,13 +81,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.350357,
+          47.651772
+        ]
+      },
+      "properties": {
+        "name": "DevLocal",
+        "url": "http://devlocal.io/",
+        "address": "3601 Fremont Ave N, Seattle, WA 98103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.331388,
           47.600606
         ]
       },
       "properties": {
-        "name": "HUB Seattle",
-        "url": "http://thehubseattle.com/",
+        "name": "Impact HUB Seattle",
+        "url": "http://impacthubseattle.com/",
         "address": "220 2nd Avenue South, Seattle, WA, United States"
       }
     },
@@ -146,7 +161,7 @@
         ]
       },
       "properties": {
-        "name": "MAKERHAUS",
+        "name": "MakerHaus",
         "url": "http://www.makerhaus.com/",
         "address": "122 Northwest 36th Street, Seattle, WA, United States"
       }
@@ -216,6 +231,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.350357,
+          47.651772
+        ]
+      },
+      "properties": {
+        "name": "Red Element Collective",
+        "url": "http://www.redelementcollective.com/",
+        "address": "3601 Fremont Ave N, Seattle, WA 98103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.121734,
           47.676238
         ]
@@ -239,6 +269,21 @@
         "name": "SURF Incubator",
         "url": "http://www.surfincubator.com/",
         "address": "821 2nd Avenue #800, Seattle, WA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337387,
+          47.604706
+        ]
+      },
+      "properties": {
+        "name": "TechBA",
+        "url": "http://www.techbaseattle.org/",
+        "address": "1008 Western Ave Suite 204 S, Seattle, WA 98104"
       }
     },
     {
